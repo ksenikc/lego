@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    
+}
+body{
+    width: 1440px;
+}
+
+.banner{
+    width: 1440px;
+    height: 346px;
+    background-color:  #FEE667;
+
+}
+.logo{
+    margin-top: 30px;
+    margin-left: 141px;   
+}
+
+.lego{
+    float: right;
+    padding-top: 80px;
+    padding-right: 114px;
+}
+
+.banner p{
+    color: #2590DD;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p span{
+    font-size: 60px;
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.text2{
+    width: 500px;
+    margin-top: 14px;
+    margin-left: 100px;
+}
+header {
+    background-color: #FFCA10;
+    height: 87px;
+}
+header ul li{
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.bat {
+    border: 1px solid #ACAAAA;
+    margin-top: 31px;
+    margin-left: 100px;
+    width: 1191px;
+    margin-bottom: 31px;
+}
+.text3{
+    color: #1A01B7;
+}
+footer {
+    background-color: #FFCA10;
+    height: 74px;
+}
+footer p {
+    text-align: center;
+    padding-top: 25px;
+    font-weight: 400;
+}
